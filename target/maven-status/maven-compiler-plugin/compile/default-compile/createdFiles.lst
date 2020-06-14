@@ -1,0 +1,11 @@
+org/restws/client/Client.class
+org/restws/service/PlayService.class
+org/restws/database/DatabaseClass.class
+org/restws/service/TheaterService.class
+org/restws/model/ErrorMessage.class
+org/restws/resources/PlayResource.class
+org/restws/exception/NotFound.class
+org/restws/resources/TheaterResource.class
+org/restws/model/Play.class
+org/restws/bean/FilterBean.class
+org/restws/model/Theater.class
